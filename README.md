@@ -1,4 +1,4 @@
-# Go Learning Notes
+# <img src="https://golang.org/lib/godoc/images/go-logo-blue.svg" alt="Go Logo" height="80" /> Go Learning Notes
 
 This repo documents my personal journey learning Go.  
 Each numbered directory contains a small, self-contained program along with a `README.md` that explains the concept as if a mentor is walking through it with me.
