@@ -1,4 +1,7 @@
-<img src="https://res.cloudinary.com/harendra21/image/upload/v1745933768/withcodeexample.com/golang-nerd-banner_httfxq.png" alt="Go Logo" height="80" /> 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Golang.png" alt="Go Logo" height="80" /> 
+</p>
+
 # Go Learning Notes
 
 This repo documents my personal journey learning Go.  
